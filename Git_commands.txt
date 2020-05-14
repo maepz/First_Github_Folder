@@ -4,3 +4,7 @@ git add --> add new file (list of ) to be tracked on the online repository
 git commit -m --> commits local changes in preparation for backup (creates difference file between local and remote)
 git push --> push local committed changes to backup (remote repo)
 
+# get old version of a specific from a specific commit (needs to be re-added and re-committed just like any other file change)
+
+git checkout commit_number filename # commit_number found online 
+
