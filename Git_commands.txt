@@ -2,3 +2,5 @@ git status --> tells me if there is a difference between my folder and the one b
 git pull --> pull data from backup; only change files that exist in both folder(online and local)
 git add --> add new file (list of ) to be tracked on the online repository
 git commit -m --> commits local changes in preparation for backup (creates difference file between local and remote)
+git push --> push local committed changes to backup (remote repo)
+
