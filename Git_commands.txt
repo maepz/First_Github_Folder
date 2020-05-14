@@ -1,0 +1,3 @@
+git status --> tells me if there is a difference between my folder and the one backed online
+git pull --> pull data from backup; only change files that exist in both folder(online and local)
+git add --> add new file (list of ) to be tracked on the online repository
